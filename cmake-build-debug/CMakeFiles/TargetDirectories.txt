@@ -1,0 +1,3 @@
+C:/Users/walte/OneDrive/Documentos/Projetos/Projeto final INF01151/cmake-build-debug/CMakeFiles/Projeto_final_INF01151.dir
+C:/Users/walte/OneDrive/Documentos/Projetos/Projeto final INF01151/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/walte/OneDrive/Documentos/Projetos/Projeto final INF01151/cmake-build-debug/CMakeFiles/rebuild_cache.dir
