@@ -43,3 +43,5 @@ Um serviço de sincronização de arquivos similar ao Dropbox, desenvolvido em C
 - Compilador C++ (e.g., `g++` versão 11 ou superior).
 - Biblioteca `pthread` e `inotify-tools` instaladas.
 
+
+
